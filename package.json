@@ -1,0 +1,7 @@
+{
+  "name": "video-access",
+  "version": "1.0.0",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1" // Example if you need to use JWT
+  }
+}
