@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  functions = "api"
+
+[context.production.environment]
+  NODE_ENV = "production"
